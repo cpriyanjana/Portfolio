@@ -1,11 +1,11 @@
-# 📊 Data Analytics & Dashboard Portfolio
+#  Data Analytics & Dashboard Portfolio
 
 Welcome to my project portfolio repository.  
 This repository contains data analysis, dashboard applications, and modeling projects built using **R, Shiny, SQL concepts, data wrangling, and visualization techniques**.
 
 ---
 
-# 🧾 1. Consumer Complaints Analysis
+# 1. Consumer Complaints Analysis
 
 ### Overview  
 An in-depth analysis of financial consumer complaint data focused on identifying complaint trends, product-level issues, sentiment patterns, and company response behavior.
@@ -36,7 +36,7 @@ Helped identify:
 
 ---
 
-# 🚗 2. Vehicle Speed Analysis – Rock Island, IL
+# 2. Vehicle Speed Analysis – Rock Island, IL
 
 ### Overview  
 An interactive **Shiny dashboard** analyzing real-world vehicle speed data collected manually to evaluate speeding behavior and traffic safety concerns.
@@ -69,7 +69,7 @@ Demonstrated:
 
 ---
 
-# 🏥 3. Patient Billing System
+# 3. Patient Billing System
 
 ### Overview  
 A healthcare billing project focused on managing and structuring patient billing data.
@@ -94,7 +94,7 @@ Showcased understanding of:
 
 ---
 
-# 🏠 4. Connecticut Real Estate Explorer (2001–2022)
+# 4. Connecticut Real Estate Explorer (2001–2022)
 
 🔗 Live App: https://cpriyanjana.shinyapps.io/RealEstateSalesAnalysis/
 
@@ -135,7 +135,7 @@ Demonstrated:
 
 ---
 
-# 🚕 5. NYC Uber 2014 Interactive Dashboard
+# 5. NYC Uber 2014 Interactive Dashboard
 
 🔗 Live App: https://cpriyanjana.shinyapps.io/ShinyUber/
 
@@ -173,7 +173,7 @@ Showcases:
 
 ---
 
-# 🛠 Technical Skills Across Projects
+# Technical Skills Across Projects
 
 - **Languages:** R  
 - **Frameworks:** Shiny  
